@@ -1,3 +1,3 @@
 function test(){
-    console.log('hello world2s');
+    console.log('hello world3s');
 }
