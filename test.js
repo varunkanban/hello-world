@@ -1,3 +1,3 @@
 function test(){
-    console.log('hello world7s');
+    console.log('hello world12s');
 }
